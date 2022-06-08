@@ -11,12 +11,12 @@ This Project is build using ReactJS and Redux. It uses BootStrap for CSS and Fon
 User will be able to see the login page. if invalid or no credentials entered, then is displayed an error.
 
 Here are list of valid credentials supported:
------------------------------
+
 Username |  Password
------------------------------
+--------------------
 user1    | abcd
 user2    | abcd
 user3    | abcd
------------------------------
+
 
 Once user is logged into applcation with valid credentials, When Add button is clicked, User will be able to add new notes.
