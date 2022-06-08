@@ -11,9 +11,6 @@ This Project is build using ReactJS and Redux. It uses BootStrap for CSS and Fon
 1. User will be able to see the login page. if invalid or no credentials entered, then is displayed an error.
 
 2. Here are list of valid credentials supported:
-
-Username |  Password
-- - - - - - - - - - -
 {username: 'user1', password: 'abcd'},
 {username: 'user2', password: 'abcd'},
 {username: 'user3', password: 'abcd'}
