@@ -8,15 +8,16 @@ This Project is build using ReactJS and Redux. It uses BootStrap for CSS and Fon
 3. Run the application using 'npm start' and you will be able to access the application using 'http://localhost:3000'.
 
 # About application
-User will be able to see the login page. if invalid or no credentials entered, then is displayed an error.
+1. User will be able to see the login page. if invalid or no credentials entered, then is displayed an error.
 
-Here are list of valid credentials supported:
+2. Here are list of valid credentials supported:
 
 Username |  Password
 - - - - - - - - - - -
-user1    | abcd
-user2    | abcd
-user3    | abcd
+{username: 'user1', password: 'abcd'},
+{username: 'user2', password: 'abcd'},
+{username: 'user3', password: 'abcd'}
 
 
-Once user is logged into applcation with valid credentials, When Add button is clicked, User will be able to add new notes.
+3. Once user is logged into applcation with valid credentials, User will be able to see list of notes(default).
+4. User can also add new notes by clicking on plus/Add note button, enter the notes and click save button.
