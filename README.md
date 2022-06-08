@@ -13,7 +13,7 @@ User will be able to see the login page. if invalid or no credentials entered, t
 Here are list of valid credentials supported:
 
 Username |  Password
---------------------
+- - - - - - - - - - -
 user1    | abcd
 user2    | abcd
 user3    | abcd
